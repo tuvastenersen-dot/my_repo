@@ -1,3 +1,3 @@
-# my_repo
+# Why Bioinformatics?
 
-hei, så søt du er
+Bioinformatics gives you the tools needed to work in cutting edge research in both health care and scientific discovery.
